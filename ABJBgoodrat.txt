@@ -1,8 +1,8 @@
-armiya
-borna
-sarah
-rira
-parastesh
-fereshte
-nazanin
-anisa
+armiya(blue)
+borna(blue)
+sarah(perpule)
+rira(yellow)
+parastesh(pink)
+fereshte(lite)
+nazanin(pink)
+anisa(yellow)
